@@ -19,6 +19,7 @@ please simply following below instructions:
 4. cloes ssl verify of  git.
    > git config --global http.sslVerify false
 
+refs : http://mdjhny.github.com/git-proxy-using-goagent.html
 
 and now you can using git hub client on windows. Don't forgot lunched your goagent proxy service.
 
